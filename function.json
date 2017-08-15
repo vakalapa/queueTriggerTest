@@ -1,0 +1,12 @@
+{
+  "bindings": [
+    {
+      "name": "inputMessage",
+      "type": "queueTrigger",
+      "direction": "in",
+      "queueName": "samples-python",
+      "connection": "azurefunctions833e23bb_STORAGE"
+    }
+  ],
+  "disabled": false
+}
