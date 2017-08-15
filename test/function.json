@@ -5,7 +5,7 @@
       "type": "queueTrigger",
       "direction": "in",
       "queueName": "samples-python",
-      "connection": "azurefunc3e23bb_STORAGE"
+      "connection": "AzureWebJobsStorage"
     }
   ],
   "disabled": false
